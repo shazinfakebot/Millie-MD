@@ -40,23 +40,23 @@ global.APIKeys = { // APIKey Here
 
 
 
-global.author = `💋 ᴍɪʟʟɪᴇ 💋`
+global.author = `💖MILLIE💖`
 global.wm = `ᴍɪʟʟɪᴇ-ᴍᴅ`
 global.ucpn = ''
-global.linkgc = 'https://chat.whatsapp.com/HZ4c5yrsd0g8OfELZGySFZ'
-global.linkig = 'https://www.instagram.com/neer_j_  '
-global.linkyt = 'https://www.youtube.com/channel/UCLegt7MKqNBxJjIkE_QNPdA'
+global.linkgc = 'https://chat.whatsapp.com/BdFTZdyiiai6qJ1JeciFJj'
+global.linkig = 'https://www.instagram.com/_shazin_07'
+global.linkyt = ''
 global.linkfb = 'https://fb.watch/aYv0jAffAO'
-global.git = 'https://github.com/Neeraj-x0'
+global.git = 'https://github.com/shazinbot'
 global.web1 = 'https://neeraj-x0.github.io/'
-global.url = 'https://chat.whatsapp.com/HZ4c5yrsd0g8OfELZGySFZ'
+global.url = 'https://chat.whatsapp.com/BdFTZdyiiai6qJ1JeciFJj'
 
 
-global.packname = `ɴᴇᴇʀᴀᴊ-x0`
-global.name = 'ᴍɪʟʟɪᴇ-ᴍᴅ'
+global.packname = `ɐɯᴉɥʇɐɟ`
+global.name = 'ᴍɪʟʟɪᴇ'
 global.deslink = ''
 global.titlink = 'Folllow me on Instagram'
-global.bodlink = 'neer_j_'
+global.bodlink = '_shazin_07'
 global.wait = '_Please Wait_'
 global.eror = '_Something went wrong please try again later_'
 global.dtu = 'BOT HELP GROUP'
